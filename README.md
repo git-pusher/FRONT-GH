@@ -1,4 +1,4 @@
-# LABORATORIO-LS
+# LABORATORIO GRACE HOOPER
 ## Diseño y Estilos
 * Catálogos
 * Listados
